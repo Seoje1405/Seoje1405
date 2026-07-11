@@ -25,6 +25,12 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
 <br/><br/>
 
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+&nbsp;
+<img src="https://img.shields.io/badge/eGovFramework-1B3A6B?style=for-the-badge&logoColor=white" height="45"/>
+<br/><br/>
+
 **Tools & Workflow**<br/>
 <img src="https://skillicons.dev/icons?i=github,vercel,notion,git" />
 
